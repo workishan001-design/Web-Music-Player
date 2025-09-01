@@ -1,7 +1,7 @@
 # 🎵 Web Music Player
 
 A modern **web-based music player** built with **HTML, CSS, and JavaScript**.  
-Features an interactive playlist, playback controls, volume control, and a **🌈 animated background visualizer** powered by the Web Audio API.  
+Features an interactive playlist, playback controls, volume control, and a **🌈 animated background visualizer** .  
 
 ---
 
